@@ -1,0 +1,30 @@
+{
+  "name": "pb-tax",
+  "version": "1.2.0",
+  "description": "A tax calculator for a discord multi-purpose bot named ProBot(https://probot.io), this project uses typescript as its main language.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmdoDev/pb-tax.git"
+  },
+  "keywords": [
+    "ProBot",
+    "Tax",
+    "Calcualtor",
+    "pb-tax",
+    "ProBot-tax",
+    "ProBot-Calculator"
+  ],
+  "author": "AhmdoDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmdoDev/pb-tax/issues"
+  },
+  "homepage": "https://github.com/AhmdoDev/pb-tax#readme",
+  "dependencies": {
+    "pb-tax": "^1.2.0"
+  }
+}
