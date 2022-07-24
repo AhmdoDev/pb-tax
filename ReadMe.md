@@ -12,9 +12,7 @@
 **Node.js 16.9.0 or newer is required.**
 
 ```sh-session
-npm install discord.js
-yarn add discord.js
-pnpm add discord.js
+npm install pb-tax
 ```
 ## **Example** :
 ```import { Client, MessageEmbed} from "discord.js"
