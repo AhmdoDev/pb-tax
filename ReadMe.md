@@ -62,4 +62,4 @@ client.on('messageCreate', async (message) => {
     }
 })
 
-client.login(`TOKEN HERE!`)```
+client.login(`TOKEN HERE!`)
